@@ -40,7 +40,7 @@ Undergraduate student of **Information Systems** at **Universitas Darwan Ali (UN
 | **[Prediksi Kelulusan Mahasiswa](https://github.com/nasy-sr/Prediksi-Kelulusan-Mahasiswa-Menggunakan-Support-Vector-Machine-SVM-)** | Educational Data Mining | Supervised classification pipeline predicting student graduation using Support Vector Machine |
 | **[Implementasi Artificial Neural Networks](https://github.com/nasy-sr/Project-Tugas-Kelompok-Neural-Networks)** | Deep Learning Modeling | End-to-end ANN modeling evaluated across four distinct dataset domains |
 | **[Artificial Intelligence Coursework](https://github.com/nasy-sr/artificial-intelligence-coursework-2024-genap)** | Classical ML & NLP | Heart Disease Prediction (91.67% accuracy with Naive Bayes), Gender Classification, and 20 Newsgroups NLP |
-| **[Cat-Fish Adventure AR 3D Game](https://github.com/nasy-sr/Cat-Fish-Adventure-AR-3D-Game)** | Educational Game Dev | Android 3D Augmented Reality and Memory Card Game built with Unity and C# |
+| **[Cat-Fish Adventure AR 3D Game](https://github.com/nasy-sr/Cat-Fish-Advanture-AR-3D-Game)** | Educational Game Dev | Android 3D Augmented Reality and Memory Card Game built with Unity and C# |
 
 #### Links
 * [Portfolio](https://nasy-sr.github.io) · [ORCID](https://orcid.org/0009-0009-2624-5050)
