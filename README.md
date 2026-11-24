@@ -7,7 +7,7 @@ Undergraduate student of **Information Systems** at **Universitas Darwan Ali (UN
 | :--- | :--- | :--- |
 | **President of BEM UNDA** | Kabinet KITA (Kolaborasi, Inovatif, Transparan, Akuntabel) | Leading student governance, strategic direction, and cross-division campus programs |
 | **Next-Gen AI Engineer** | [Mumtaz Bimbel System](https://github.com/KEBAB-SHIIII) (Asah Capstone by Dicoding & GoTo) | Designing AI strategy, feature planning, and rule-assisted session screening for tutoring operations |
-| **AI Engineer & Project Manager** | PilahinAI (DBS Foundation Coding Camp 2026) | Leading product execution and developing a CNN-based waste classification application |
+| **AI Engineer (Distinction) & Project Manager** | PilahinAI (DBS Foundation Coding Camp 2026) | Leading product execution and developing a CNN-based waste classification application |
 | **Founder** | Mumtaz Learning Center | Built and scaled an EdTech tutoring initiative serving 100+ students with 22 tutors |
 | **Google Student Ambassador 2026** | Google | Driving campus tech adoption, AI literacy, and student developer communities |
 | **Community Volunteer & Awardee** | Teras Baca Merdeka (TBM) Sampit & Pemkab Kotim | Grassroots literacy volunteering and Gerbang Mentaya Scholarship recipient |
@@ -43,4 +43,4 @@ Undergraduate student of **Information Systems** at **Universitas Darwan Ali (UN
 | **[Cat-Fish Adventure AR 3D Game](https://github.com/nasy-sr/Cat-Fish-Advanture-AR-3D-Game)** | Educational Game Dev | Android 3D Augmented Reality and Memory Card Game built with Unity and C# |
 
 #### Links
-* [Portfolio](https://nasy-sr.github.io) · [ORCID](https://orcid.org/0009-0009-2624-5050)
+* [LinkedIn](https://www.linkedin.com/in/nasywasr/) · [ORCID](https://orcid.org/0009-0009-2624-5050)
