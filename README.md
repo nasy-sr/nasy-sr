@@ -43,4 +43,4 @@ Undergraduate student of **Information Systems** at **Universitas Darwan Ali (UN
 | **[Cat-Fish Adventure AR 3D Game](https://github.com/nasy-sr/Cat-Fish-Advanture-AR-3D-Game)** | Educational Game Dev | Android 3D Augmented Reality and Memory Card Game built with Unity and C# |
 
 #### Links
-* [LinkedIn](https://www.linkedin.com/in/nasywasr/) · [ORCID](https://orcid.org/0009-0009-2624-5050)
+* [LinkedIn](https://www.linkedin.com/in/nasywasr/) · [ORCID](https://orcid.org/0009-0009-2624-5050) · [Instagram](https://www.instagram.com/mzhb.hi/)
