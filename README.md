@@ -27,7 +27,7 @@ Undergraduate student of **Information Systems** at **Universitas Darwan Ali (UN
 * **The Solution**: Built an integrated web and AI-assisted platform ([AI-MODEL-MUMTAZ](https://github.com/KEBAB-SHIIII/AI-MODEL-MUMTAZ)) that automatically screens submitted sessions against scheduling rules, feeds verified logs into tuition billing and tutor payroll, and gives parents private progress access.
 * **My Contribution**: Served as **Next-Gen AI Engineer** focusing on AI strategy, session-screening logic design, and feature planning.
 
-##### 2. PilahinAI: Smart Waste Classification App
+##### 2. [PilahinAI: Smart Waste Classification App](https://github.com/shintayl9/pilahinai)
 *Capstone Project for DBS Foundation Coding Camp 2026.*
 * **The Problem**: Improper household waste sorting reduces recycling efficiency and increases environmental burden at local collection points.
 * **The Solution**: Developed an intelligent waste classification application powered by Convolutional Neural Networks (CNN) to identify waste categories and guide proper disposal.
