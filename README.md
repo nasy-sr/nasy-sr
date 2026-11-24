@@ -1,6 +1,6 @@
 ### Nasywa Salsabiila Romadhona
 
-Undergraduate student of **Information Systems** at **Universitas Darwan Ali (UNDA)** (**GPA 3.97**), building practical AI and machine learning systems while leading student and community technology initiatives.
+Undergraduate student of **Information Systems** at **Universitas Darwan Ali (UNDA)**, building practical AI and machine learning systems while leading student and community technology initiatives.
 
 #### Leadership & Recognition
 | Role / Program | Organization / Institution | Focus & Impact |
