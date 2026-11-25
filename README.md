@@ -33,7 +33,13 @@ Undergraduate student of **Information Systems** at **Universitas Darwan Ali (UN
 * **The Solution**: Developed an intelligent waste classification application powered by Convolutional Neural Networks (CNN) to identify waste categories and guide proper disposal.
 * **My Contribution**: Led the team as **AI Engineer & Project Manager**, overseeing model development, dataset preparation, and end-to-end delivery.
 
-##### 3. Other Selected Works
+##### 3. [IndoBERT Sentiment Analysis for Digital Education Quality Evaluation](https://github.com/nasy-sr/indobert-ruangguru-sentiment)
+*National Seminar Research Paper (2026), First Author.*
+* **The Problem**: Star-rating aggregates on app stores hide qualitative user complaints and suffer from severe class imbalance (Imbalance Ratio 27.04) across 209,343 Ruangguru reviews.
+* **The Solution**: Built a three-stage NLP pipeline fine-tuning `indobenchmark/indobert-base-p1` across four imbalance-handling scenarios (Baseline, Random Oversampling, Cost-Sensitive Learning, and Focal Loss with gamma 2.0) validated via 10-Fold Stratified Cross-Validation and Wilcoxon Signed-Rank statistical testing, achieving a 0.6951 weighted F1-score alongside bigram and error diagnostics.
+* **My Contribution**: Designed the end-to-end NLP experimental pipeline, statistical evaluation, and full research manuscript.
+
+##### 4. Other Selected Works
 | Project | Focus | Tech & Outcome |
 | :--- | :--- | :--- |
 | **[Analisis Sentimen Ulasan Duolingo](https://github.com/nasy-sr/analisis-sentimen-duolingo)** | National Conference Manuscript | Comparative sentiment analysis using Deep Learning (BiLSTM) and conventional Machine Learning |
