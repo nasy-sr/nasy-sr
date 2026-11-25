@@ -36,17 +36,17 @@ Undergraduate student of **Information Systems** at **Universitas Darwan Ali (UN
 - **The Solution:** Developed an intelligent waste classification application powered by Convolutional Neural Networks (CNN) to identify waste categories and guide proper disposal.
 - **My Contribution:** Led the team as **AI Engineer & Project Manager**, overseeing model development, dataset preparation, and end-to-end delivery.
 
-#### 3. [User Perceptions of AI Integration in Mobile-Assisted Language Learning](https://github.com/nasy-sr/analisis-sentimen-duolingo)
+### 3. [User Perceptions of AI Integration in Mobile-Assisted Language Learning](https://github.com/nasy-sr/analisis-sentimen-duolingo)
 *International Conference ([INACELT 2026](https://www.inacelt2026.my.id/)), First Author (manuscript submitted / presented; awaiting proceedings publication).*
-- **The Problem:** Heavy class imbalance (88.5% positive) and temporal shift in app reviews mask user criticism, while the real-world impact of Duolingo's 2025 "AI-first" policy on learner perception remained unexamined.
-- **The Solution:** Conducted a convergent mixed-methods study training Naive Bayes, Logistic Regression (Macro F1: **0.843**), and BiLSTM (Macro F1: **0.831**) on 38,278 balanced 2025 reviews and testing on 750 deduplicated November 2026 reviews under a strict no-leakage protocol, paired with keyword ablation and qualitative coding ($\kappa = 0.770$) of AI-related complaints.
-- **My Contribution:** Designed the end-to-end ML/DL evaluation pipeline, statistical testing (McNemar & bootstrap CI), qualitative coding, and conference manuscript.
+- *The Problem:* Heavy class imbalance (88.5% positive) and temporal shift in app reviews mask user criticism, while the real-world impact of Duolingo's 2025 "AI-first" policy on learner perception remained unexamined.
+- *The Solution:* Conducted a convergent mixed-methods study training Naive Bayes, Logistic Regression (Macro F1: *0.843*), and BiLSTM (Macro F1: *0.831*) on 38,278 balanced 2025 reviews and testing on 750 deduplicated November 2026 reviews under a strict no-leakage protocol, paired with keyword ablation and qualitative coding ($\kappa = 0.770$) of AI-related complaints.
+- *My Contribution:* Designed the end-to-end ML/DL evaluation pipeline, statistical testing (McNemar & bootstrap CI), qualitative coding, and conference manuscript.
 
-#### 4. [IndoBERT Sentiment Analysis for Digital Education Quality Evaluation](https://github.com/nasy-sr/indobert-ruangguru-sentiment)
+### 4. [IndoBERT Sentiment Analysis for Digital Education Quality Evaluation](https://github.com/nasy-sr/indobert-ruangguru-sentiment)
 *Published in [Prosiding SENAM 2026 (pp. 43–57)](https://ocs.machung.ac.id/index.php/seminarnasionalmachung/article/view/949), First Author.*
-- **The Problem:** Star-rating aggregates on app stores hide qualitative user complaints and suffer from severe class imbalance (Imbalance Ratio 27.04) across 209,343 Ruangguru reviews.
-- **The Solution:** Built a three-stage NLP pipeline fine-tuning `indobenchmark/indobert-base-p1` across four imbalance-handling scenarios (Baseline, Random Oversampling, Cost-Sensitive Learning, and Focal Loss with $\gamma = 2.0$) validated via 10-Fold Stratified Cross-Validation and Wilcoxon Signed-Rank statistical testing, achieving a **0.6951** weighted F1-score alongside bigram and error diagnostics.
-- **My Contribution:** Designed the end-to-end NLP experimental pipeline, statistical evaluation, and published research paper ([PDF](https://ocs.machung.ac.id/index.php/seminarnasionalmachung/article/view/949/522)).
+- *The Problem:* Star-rating aggregates on app stores hide qualitative user complaints and suffer from severe class imbalance (Imbalance Ratio 27.04) across 209,343 Ruangguru reviews.
+- *The Solution:* Built a three-stage NLP pipeline fine-tuning `indobenchmark/indobert-base-p1` across four imbalance-handling scenarios (Baseline, Random Oversampling, Cost-Sensitive Learning, and Focal Loss with $\gamma = 2.0$) validated via 10-Fold Stratified Cross-Validation and Wilcoxon Signed-Rank statistical testing, achieving a *0.6951* weighted F1-score alongside bigram and error diagnostics.
+- *My Contribution:* Designed the end-to-end NLP experimental pipeline, statistical evaluation, and published research paper ([PDF](https://ocs.machung.ac.id/index.php/seminarnasionalmachung/article/view/949/522)).
 
 ### Other Selected Works
 
