@@ -22,34 +22,39 @@ Undergraduate student of **Information Systems** at **Universitas Darwan Ali (UN
 | **Backend & Game Dev** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 
-#### Featured Projects
+### Featured Projects
 
-##### 1. [Mumtaz Attendance & Learning Progress System](https://github.com/KEBAB-SHIIII)
+#### 1. [Mumtaz Attendance & Learning Progress System](https://github.com/KEBAB-SHIIII)
 *Capstone Project for Asah Program led by Dicoding and GoTo (in collaboration with Bimbel Mumtaz Sampit).*
-* **The Problem**: Manual tutor reporting via Google Forms and monthly spreadsheet checks were time-consuming, prone to duplicate or clashing entries, and lacked real-time learning visibility for parents.
-* **The Solution**: Built an integrated web and AI-assisted platform ([AI-MODEL-MUMTAZ](https://github.com/KEBAB-SHIIII/AI-MODEL-MUMTAZ)) that automatically screens submitted sessions against scheduling rules, feeds verified logs into tuition billing and tutor payroll, and gives parents private progress access.
-* **My Contribution**: Served as **Next-Gen AI Engineer** focusing on AI strategy, session-screening logic design, and feature planning.
+- **The Problem:** Manual tutor reporting via Google Forms and monthly spreadsheet checks were time-consuming, prone to duplicate or clashing entries, and lacked real-time learning visibility for parents.
+- **The Solution:** Built an integrated web and AI-assisted platform ([AI-MODEL-MUMTAZ](https://github.com/KEBAB-SHIIII/AI-MODEL-MUMTAZ)) that automatically screens submitted sessions against scheduling rules, feeds verified logs into tuition billing and tutor payroll, and gives parents private progress access.
+- **My Contribution:** Served as **Next-Gen AI Engineer** focusing on AI strategy, session-screening logic design, and feature planning.
 
-##### 2. [PilahinAI: Smart Waste Classification App](https://github.com/shintayl9/pilahinai)
+#### 2. [PilahinAI: Smart Waste Classification App](https://github.com/shintayl9/pilahinai)
 *Capstone Project for DBS Foundation Coding Camp 2026.*
-* **The Problem**: Improper household waste sorting reduces recycling efficiency and increases environmental burden at local collection points.
-* **The Solution**: Developed an intelligent waste classification application powered by Convolutional Neural Networks (CNN) to identify waste categories and guide proper disposal.
-* **My Contribution**: Led the team as **AI Engineer & Project Manager**, overseeing model development, dataset preparation, and end-to-end delivery.
+- **The Problem:** Improper household waste sorting reduces recycling efficiency and increases environmental burden at local collection points.
+- **The Solution:** Developed an intelligent waste classification application powered by Convolutional Neural Networks (CNN) to identify waste categories and guide proper disposal.
+- **My Contribution:** Led the team as **AI Engineer & Project Manager**, overseeing model development, dataset preparation, and end-to-end delivery.
 
-##### 3. [IndoBERT Sentiment Analysis for Digital Education Quality Evaluation](https://github.com/nasy-sr/indobert-ruangguru-sentiment)
+#### 3. [User Perceptions of AI Integration in Mobile-Assisted Language Learning](https://github.com/nasy-sr/analisis-sentimen-duolingo)
+*International Conference ([INACELT 2026](https://www.inacelt2026.my.id/)), First Author (manuscript submitted / presented; awaiting proceedings publication).*
+- **The Problem:** Heavy class imbalance (88.5% positive) and temporal shift in app reviews mask user criticism, while the real-world impact of Duolingo's 2025 "AI-first" policy on learner perception remained unexamined.
+- **The Solution:** Conducted a convergent mixed-methods study training Naive Bayes, Logistic Regression (Macro F1: **0.843**), and BiLSTM (Macro F1: **0.831**) on 38,278 balanced 2025 reviews and testing on 750 deduplicated November 2026 reviews under a strict no-leakage protocol, paired with keyword ablation and qualitative coding ($\kappa = 0.770$) of AI-related complaints.
+- **My Contribution:** Designed the end-to-end ML/DL evaluation pipeline, statistical testing (McNemar & bootstrap CI), qualitative coding, and conference manuscript.
+
+#### 4. [IndoBERT Sentiment Analysis for Digital Education Quality Evaluation](https://github.com/nasy-sr/indobert-ruangguru-sentiment)
 *Published in [Prosiding SENAM 2026 (pp. 43–57)](https://ocs.machung.ac.id/index.php/seminarnasionalmachung/article/view/949), First Author.*
-* **The Problem**: Star-rating aggregates on app stores hide qualitative user complaints and suffer from severe class imbalance (Imbalance Ratio 27.04) across 209,343 Ruangguru reviews.
-* **The Solution**: Built a three-stage NLP pipeline fine-tuning `indobenchmark/indobert-base-p1` across four imbalance-handling scenarios (Baseline, Random Oversampling, Cost-Sensitive Learning, and Focal Loss with gamma 2.0) validated via 10-Fold Stratified Cross-Validation and Wilcoxon Signed-Rank statistical testing, achieving a 0.6951 weighted F1-score alongside bigram and error diagnostics.
-* **My Contribution**: Designed the end-to-end NLP experimental pipeline, statistical evaluation, and published research paper ([PDF](https://ocs.machung.ac.id/index.php/seminarnasionalmachung/article/view/949/522)).
+- **The Problem:** Star-rating aggregates on app stores hide qualitative user complaints and suffer from severe class imbalance (Imbalance Ratio 27.04) across 209,343 Ruangguru reviews.
+- **The Solution:** Built a three-stage NLP pipeline fine-tuning `indobenchmark/indobert-base-p1` across four imbalance-handling scenarios (Baseline, Random Oversampling, Cost-Sensitive Learning, and Focal Loss with $\gamma = 2.0$) validated via 10-Fold Stratified Cross-Validation and Wilcoxon Signed-Rank statistical testing, achieving a **0.6951** weighted F1-score alongside bigram and error diagnostics.
+- **My Contribution:** Designed the end-to-end NLP experimental pipeline, statistical evaluation, and published research paper ([PDF](https://ocs.machung.ac.id/index.php/seminarnasionalmachung/article/view/949/522)).
 
-##### 4. Other Selected Works
+### Other Selected Works
+
 | Project | Focus | Tech & Outcome |
 | :--- | :--- | :--- |
-| [User Perceptions of AI Integration in Duolingo Reviews](https://github.com/nasy-sr/analisis-sentimen-duolingo) | International Conference ([INACELT 2026](https://www.inacelt2026.my.id/)) | Mixed-methods sentiment classification (Logistic Regression Macro F1: 0.843; BiLSTM: 0.831) and qualitative coding of AI backlash (First Author) |
-| **[Prediksi Kelulusan Mahasiswa](https://github.com/nasy-sr/Prediksi-Kelulusan-Mahasiswa-Menggunakan-Support-Vector-Machine-SVM-)** | Educational Data Mining | Supervised classification pipeline predicting student graduation using Support Vector Machine |
-| **[Implementasi Artificial Neural Networks](https://github.com/nasy-sr/Project-Tugas-Kelompok-Neural-Networks)** | Deep Learning Modeling | End-to-end ANN modeling evaluated across four distinct dataset domains |
-| **[Artificial Intelligence Coursework](https://github.com/nasy-sr/artificial-intelligence-coursework-2024-genap)** | Classical ML & NLP | Heart Disease Prediction (91.67% accuracy with Naive Bayes), Gender Classification, and 20 Newsgroups NLP |
-| **[Cat-Fish Adventure AR 3D Game](https://github.com/nasy-sr/Cat-Fish-Advanture-AR-3D-Game)** | Educational Game Dev | Android 3D Augmented Reality and Memory Card Game built with Unity and C# |
-
+| [Prediksi Kelulusan Mahasiswa](https://github.com/nasy-sr/Prediksi-Kelulusan-Mahasiswa-Menggunakan-Support-Vector-Machine-SVM-) | Educational Data Mining | Supervised classification pipeline predicting student graduation using Support Vector Machine |
+| [Implementasi Artificial Neural Networks](https://github.com/nasy-sr/Project-Tugas-Kelompok-Neural-Networks) | Deep Learning Modeling | End-to-end ANN modeling evaluated across four distinct dataset domains |
+| [Artificial Intelligence Coursework](https://github.com/nasy-sr/artificial-intelligence-coursework-2024-genap) | Classical ML & NLP | Heart Disease Prediction (91.67% accuracy with Naive Bayes), Gender Classification, and 20 Newsgroups NLP |
+| [Cat-Fish Adventure AR 3D Game](https://github.com/nasy-sr/Cat-Fish-Advanture-AR-3D-Game) | Educational Game Dev | Android 3D Augmented Reality and Memory Card Game built with Unity and C# |
 #### Links
 * [LinkedIn](https://www.linkedin.com/in/nasywasr/) · [ORCID](https://orcid.org/0009-0009-2624-5050) · [Instagram](https://www.instagram.com/mzhb.hi/)
