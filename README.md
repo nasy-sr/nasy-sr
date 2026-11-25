@@ -34,10 +34,10 @@ Undergraduate student of **Information Systems** at **Universitas Darwan Ali (UN
 * **My Contribution**: Led the team as **AI Engineer & Project Manager**, overseeing model development, dataset preparation, and end-to-end delivery.
 
 ##### 3. [IndoBERT Sentiment Analysis for Digital Education Quality Evaluation](https://github.com/nasy-sr/indobert-ruangguru-sentiment)
-*National Seminar Research Paper (2026), First Author.*
+*Published in [Prosiding SENAM 2026 (pp. 43–57)](https://ocs.machung.ac.id/index.php/seminarnasionalmachung/article/view/949), First Author.*
 * **The Problem**: Star-rating aggregates on app stores hide qualitative user complaints and suffer from severe class imbalance (Imbalance Ratio 27.04) across 209,343 Ruangguru reviews.
 * **The Solution**: Built a three-stage NLP pipeline fine-tuning `indobenchmark/indobert-base-p1` across four imbalance-handling scenarios (Baseline, Random Oversampling, Cost-Sensitive Learning, and Focal Loss with gamma 2.0) validated via 10-Fold Stratified Cross-Validation and Wilcoxon Signed-Rank statistical testing, achieving a 0.6951 weighted F1-score alongside bigram and error diagnostics.
-* **My Contribution**: Designed the end-to-end NLP experimental pipeline, statistical evaluation, and full research manuscript.
+* **My Contribution**: Designed the end-to-end NLP experimental pipeline, statistical evaluation, and published research paper ([PDF](https://ocs.machung.ac.id/index.php/seminarnasionalmachung/article/view/949/522)).
 
 ##### 4. Other Selected Works
 | Project | Focus | Tech & Outcome |
