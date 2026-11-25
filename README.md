@@ -6,7 +6,7 @@ Undergraduate student of **Information Systems** at **Universitas Darwan Ali (UN
 | Role / Program | Organization / Institution | Focus & Impact |
 | :--- | :--- | :--- |
 | **President & Former Vice President of BEM UNDA** | Kabinet KITA & Kabinet Gema Aksi | Progressed from Vice President (Kabinet Gema Aksi) to President of BEM UNDA (Kabinet KITA), leading student governance, strategic direction, and cross-division campus programs |
-| **Next-Gen AI Engineer** | [Mumtaz Bimbel System](https://github.com/KEBAB-SHIIII) (Asah Capstone by Dicoding & GoTo) | Designing AI strategy, feature planning, and rule-assisted session screening for tutoring operations |
+| **Next-Gen AI Engineer** | [Mumtaz Bimbel System](https://github.com/KEBAB-SHIIII) (Capstone, Asah by Dicoding & GoTo) | Designing AI strategy, feature planning, and rule-assisted session screening for tutoring operations |
 | **AI Engineer (Distinction) & Project Manager** | [PilahinAI](https://github.com/shintayl9/pilahinai) (Capstone, DBS Foundation Coding Camp 2026) | Graduated with Distinction; led product execution and developed a CNN-based waste classification app |
 | **First Author (National Seminar)** | [Prosiding SENAM 2026](https://ocs.machung.ac.id/index.php/seminarnasionalmachung/article/view/949) | Published research paper on IndoBERT sentiment analysis across 209K+ Ruangguru user reviews |
 | **Founder** | Mumtaz Learning Center | Built and scaled an EdTech tutoring initiative serving 100+ students with 22 tutors |
