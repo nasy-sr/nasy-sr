@@ -8,6 +8,7 @@ Undergraduate student of **Information Systems** at **Universitas Darwan Ali (UN
 | **President & Former Vice President of BEM UNDA** | Kabinet KITA & Kabinet Gema Aksi | Progressed from Vice President (Kabinet Gema Aksi) to President of BEM UNDA (Kabinet KITA), leading student governance, strategic direction, and cross-division campus programs |
 | **Next-Gen AI Engineer** | [Mumtaz Bimbel System](https://github.com/KEBAB-SHIIII) (Capstone, Asah by Dicoding & GoTo) | Designing AI strategy, feature planning, and rule-assisted session screening for tutoring operations |
 | **AI Engineer (Distinction) & Project Manager** | [PilahinAI](https://github.com/shintayl9/pilahinai) (Capstone, DBS Foundation Coding Camp 2026) | Graduated with Distinction; led product execution and developed a CNN-based waste classification app |
+| **First Author (International Conference)** | [INACELT 2026](https://www.inacelt2026.my.id/) | Authored and presented an international conference study on Duolingo sentiment classification and user backlash against AI integration |
 | **First Author (National Seminar)** | [Prosiding SENAM 2026](https://ocs.machung.ac.id/index.php/seminarnasionalmachung/article/view/949) | Published research paper on IndoBERT sentiment analysis across 209K+ Ruangguru user reviews |
 | **Founder** | Mumtaz Learning Center | Built and scaled an EdTech tutoring initiative serving 100+ students with 22 tutors |
 | **Google Student Ambassador 2026** | Google (Gemini Achiever) | Driving campus tech adoption, AI literacy, and student developer communities |
@@ -44,7 +45,7 @@ Undergraduate student of **Information Systems** at **Universitas Darwan Ali (UN
 ##### 4. Other Selected Works
 | Project | Focus | Tech & Outcome |
 | :--- | :--- | :--- |
-| **[Analisis Sentimen Ulasan Duolingo](https://github.com/nasy-sr/analisis-sentimen-duolingo)** | National Conference Manuscript | Comparative sentiment analysis using Deep Learning (BiLSTM) and conventional Machine Learning |
+| [User Perceptions of AI Integration in Duolingo Reviews](https://github.com/nasy-sr/analisis-sentimen-duolingo) | International Conference ([INACELT 2026](https://www.inacelt2026.my.id/)) | Mixed-methods sentiment classification (Logistic Regression Macro F1: 0.843; BiLSTM: 0.831) and qualitative coding of AI backlash (First Author) |
 | **[Prediksi Kelulusan Mahasiswa](https://github.com/nasy-sr/Prediksi-Kelulusan-Mahasiswa-Menggunakan-Support-Vector-Machine-SVM-)** | Educational Data Mining | Supervised classification pipeline predicting student graduation using Support Vector Machine |
 | **[Implementasi Artificial Neural Networks](https://github.com/nasy-sr/Project-Tugas-Kelompok-Neural-Networks)** | Deep Learning Modeling | End-to-end ANN modeling evaluated across four distinct dataset domains |
 | **[Artificial Intelligence Coursework](https://github.com/nasy-sr/artificial-intelligence-coursework-2024-genap)** | Classical ML & NLP | Heart Disease Prediction (91.67% accuracy with Naive Bayes), Gender Classification, and 20 Newsgroups NLP |
